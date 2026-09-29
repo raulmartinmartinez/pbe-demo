@@ -1,0 +1,1 @@
+Sistema: sensor --> gateway --> servidor
